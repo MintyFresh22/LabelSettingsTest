@@ -1,3 +1,3 @@
 agile-helper-config:
 labels: [all]
-milestones: [all]
+milestones: [Sprint 0]
