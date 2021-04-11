@@ -1,2 +1,2 @@
 agile-helper-config:
-labels: [all]
+labels: [all ]
