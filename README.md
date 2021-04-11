@@ -1,2 +1,2 @@
 agile-helper-config:
-labels [epic-template,bug]
+labels [epic-template,bug,research]
